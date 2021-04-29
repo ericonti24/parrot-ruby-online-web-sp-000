@@ -8,5 +8,5 @@
 
 def parrot(parrot = "Squawk!")
   puts parrot
- parrot 
+ parrot
 end
